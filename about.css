@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+}.about{
+    background-color:darkblue;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 3px 4px;
+    border: 3px solid skyblue;
+    border-radius: 21px;
+}
+.container {
+    position: relative;
+    max-width: 100%;
+    height: auto;
+  }
+.ceoi{
+  color: navy;
+  text-align: center;
+}
+a:link{
+  text-decoration: none;
+}
+.containert{
+    position: absolute;
+    max-width: 100%;
+    height: auto;  
+}
+.art{
+  color: navy;
+  text-align: center;
+}
+a:link{
+  text-decoration: none;
+}
