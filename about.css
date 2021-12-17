@@ -12,7 +12,7 @@
 }
 .container {
     position: relative;
-    max-width: 100%;
+    width: 100%;
     height: auto;
   }
 .ceoi{
@@ -24,7 +24,7 @@ a:link{
 }
 .containert{
     position: absolute;
-    max-width: 100%;
+    width: 100%;
     height: auto;  
 }
 .art{
