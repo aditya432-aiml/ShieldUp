@@ -12,8 +12,8 @@
 }
 .container {
     position: relative;
-    max-width: 40%;
-    height: 40%;
+    max-width: 100%;
+    height: auto;
   }
 .ceoi{
   color: navy;
@@ -24,8 +24,8 @@ a:link{
 }
 .containert{
     position: absolute;
-    max-width: 40%;
-    height: 40%;  
+    max-width: 100%;
+    height: auto;  
 }
 .art{
   color: navy;
