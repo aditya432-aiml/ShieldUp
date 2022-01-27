@@ -72,3 +72,15 @@ div.box{
     color:lightgreen;
     margin-top: 23px;
 }
+@media screen and (max-width : 800px){
+  body{
+      max-width: 100%;
+      max-height: auto;
+  }
+}
+@media screen and (min-width : 400px){
+  body{
+      min-width: 400px;
+      min-height: auto;
+  }
+}
