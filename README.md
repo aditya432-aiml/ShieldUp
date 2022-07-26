@@ -14,4 +14,4 @@ This Is My First Project in Web Development.
 
 # Demo
 
-![Alt Text](https://github.com/aditya432-aiml/ShieldUp/blob/497ce64ba7bca93be099a9f53e26697949e596e5/ShieldUp%20-%20Google%20Chrome%202022-07-26%2012-36-07.mp4)
+![Alt Text](https://github.com/aditya432-aiml/ShieldUp/blob/811892a1092ce2968dd6de43c0da7c8592cc4870/ShieldUp%20-%20Google%20Chrome%202022-07-26%2012-36-07.gif)
