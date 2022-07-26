@@ -9,6 +9,19 @@
   <title>ShieldUp</title>
   <link rel="icon" type="image/png" href="/SP_Favicon.png" />
   <link rel="stylesheet" href="style.css">
+  <script>
+    window.watsonAssistantChatOptions = {
+      integrationID: "13ec5173-c615-4e82-b66a-bfc9ff983d3a", // The ID of this integration.
+      region: "au-syd", // The region your integration is hosted in.
+      serviceInstanceID: "b8a45703-f382-4c21-883f-f1312d2eddf5", // The ID of your service instance.
+      onLoad: function(instance) { instance.render(); }
+    };
+    setTimeout(function(){
+      const t=document.createElement('script');
+      t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+      document.head.appendChild(t);
+    });
+  </script>
 </head>
 <body>
 
