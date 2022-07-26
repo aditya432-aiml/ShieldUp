@@ -4,8 +4,8 @@ This website contains information on COVID-19 and has an interactive bot for qui
 
 # Prerquesite
 
-HTML5
-CSS3
+HTML5,
+CSS3,
 Watson Assistant from IBM
 
 # Information about the author
