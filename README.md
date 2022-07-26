@@ -1,2 +1,13 @@
 # ShieldUp.github.io
-This Website Give Information About COVID-19 And This Is My First Project Of Web Development.
+
+This website contains information on COVID-19 and has an interactive bot for quick information.
+
+# Prerquesite
+
+HTML5
+CSS3
+Watson Assistant from IBM
+
+# Information about the author
+
+This Is My First Project in Web Development.
